@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Datenschutzerklärung | Carlos Jurado",
+  title: "Datenschutzerklärung | Carlos Jurado Moreno",
 };
 
 export default function DatenschutzPage() {

@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Impressum | Carlos Jurado",
+  title: "Impressum | Carlos Jurado Moreno",
 };
 
 export default function ImpressumPage() {
